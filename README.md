@@ -45,7 +45,7 @@ tqdm>=4.65.0
 ### Setup Instructions
 1. Clone the repository:
 ```bash
-git clone https://github.com/SeyyidaliT/AI-Integrative-IDS_project.git
+git clone https://github.com/SeyyidaliT/AI-Integrative-IDS.git
 cd AI-Integrative-IDS
 ```
 
